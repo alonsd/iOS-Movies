@@ -22,7 +22,7 @@ This project is built for learning purpose, therefore is not available though Ap
 
 ## License
 
-This project is licensed under The Unlicense - see the [LICENSE](LICENSE) file for details
+This project is licensed under MIT License - see the [LICENSE](LICENSE) file for details
 
 <img src="https://github.com/alonsd/MoviesPersistancy/blob/master/MovieDetailsVC.png" width="300"/>           <img src="https://github.com/alonsd/MoviesPersistancy/blob/master/MoviesTableview.png" width="300"/>
 

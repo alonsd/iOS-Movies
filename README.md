@@ -2,8 +2,8 @@
 
 ## Parsing JSON data to list and saving them to IOS local Persistency.
 
-This app demonstrates JSON parsing from API of movies into an IOS Tableview.
-The data is immediately stored into Core Data persistency and can be viewed without internet.
+This app demonstrates JSON parsing from API of movies into an IOS Tableview.The data is immediately stored into Core Data persistency and can be viewed without internet.
+This project introduces a Tableview extension for cell customising and MVC architecture.
 
 ### Prerequisites
 Available on github only - open via xCode or download as a .zip file. 

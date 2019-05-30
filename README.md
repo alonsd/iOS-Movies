@@ -10,7 +10,7 @@ This project introduces a Tableview extension for cell customising and MVC archi
 Available on github only - open via xCode or download as a .zip file. 
 
 ### Installing
-This project is built for learning purpose, therefore is not available though App Store or anything els rather then this repository.
+This project is built for learning purpose, therefore is not available though App Store or anything else rather then this repository.
 
 ## Built With
 

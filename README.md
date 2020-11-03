@@ -3,9 +3,9 @@
 <img src="https://github.com/alonsd/MoviesPersistancy/blob/master/MovieDetailsVC.png" width="300"/>           <img src="https://github.com/alonsd/MoviesPersistancy/blob/master/MoviesTableview.png" width="300"/>
 
 
-## Parsing JSON data to list and saving them to IOS local Persistency.
+## Parsing JSON data to list and saving them to IOS local Database.
 
-This app demonstrates JSON parsing from API of movies into an IOS Tableview.The data is immediately stored into Core Data persistency and can be viewed without internet.
+This app demonstrates JSON parsing from API of movies into an IOS Tableview.The data is immediately stored into Core Data DB and can be viewed without internet.
 
 This project introduces a Tableview extension for cell customising and MVC architecture.
 

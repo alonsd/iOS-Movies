@@ -1,4 +1,4 @@
-# MoviesPersistancy
+# iOS-Movies
 
 <img src="https://github.com/alonsd/MoviesPersistancy/blob/master/MovieDetailsVC.png" width="300"/>           <img src="https://github.com/alonsd/MoviesPersistancy/blob/master/MoviesTableview.png" width="300"/>
 
